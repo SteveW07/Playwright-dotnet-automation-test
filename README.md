@@ -25,6 +25,7 @@ PlaywrightTests/
   Pages/      Page Object classes
   Helpers/    Shared helper methods
   Models/     Result models used by tests
+  Tests/      Test cases
 ```
 
 ## Prerequisites
