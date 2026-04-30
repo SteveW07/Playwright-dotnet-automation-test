@@ -1,0 +1,7 @@
+bin/
+obj/
+TestResults/
+*.trx
+.vs/
+.vscode/
+.DS_Store
